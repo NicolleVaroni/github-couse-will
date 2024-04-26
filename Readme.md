@@ -2,4 +2,6 @@
 
 Este é um repositório teste para ensinar como o Git funciona.
 
-Testo adicional para ter alteração.
+Texto adicional para ter alteração.
+
+Gostou do curso? Doe um café!
