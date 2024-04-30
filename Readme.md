@@ -7,3 +7,5 @@ Texto adicional para ter alteração.
 Gostou do curso? Doe um café!
 
 Mais uma edição para teste.
+
+Texto.
